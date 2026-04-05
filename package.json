@@ -1,5 +1,5 @@
 {
-  "name": "clawrissaflayer",
+  "name": "mineflayer",
   "version": "4.37.0",
   "description": "A patched mineflayer fork for NeoForge/Pixelmon-focused modded Minecraft clients.",
   "main": "index.js",
